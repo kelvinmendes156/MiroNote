@@ -10,11 +10,11 @@
   }
 
   img {
-    position:absolute;
-	left:50%;
-	top:10%;
-	margin-left:-200px;
-	margin-top:-40px;
+    position:relative;
+    left:50%;
+    top:10%;
+    margin-left:-200px;
+    margin-top:-40px;
   }
   
   body {
